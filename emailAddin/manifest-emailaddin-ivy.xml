@@ -2,10 +2,10 @@
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="MailApp">
   <Id>a6b4e3b2-d7d3-4ad9-bdbf-eab1fcabcdfe</Id>
   <Version>1.0.0.0</Version>
-  <ProviderName>[Provider name]</ProviderName>
+  <ProviderName>Sawyer LIN</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="emailAddin-ivy"/>
-  <Description DefaultValue="[Task pane Add-in description]"/>
+  <Description DefaultValue="this is used for send email"/>
   <HighResolutionIconUrl DefaultValue="https://avatars2.githubusercontent.com/u/2016591"/>
   <SupportUrl DefaultValue="https://sawyerlin.github.io/app/#/home"/>
   <Hosts>
