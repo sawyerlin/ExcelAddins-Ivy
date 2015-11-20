@@ -7,7 +7,7 @@
   <DisplayName DefaultValue="emailAddin-ivy"/>
   <Description DefaultValue="this is used for send email"/>
   <HighResolutionIconUrl DefaultValue="https://avatars2.githubusercontent.com/u/2016591"/>
-  <SupportUrl DefaultValue="https://sawyerlin.github.io/app/#/home"/>
+  <SupportUrl DefaultValue="https://sawyerlin.github.io/ExcelAddins-Ivy"/>
   <Hosts>
     <Host Name="Mailbox"/>
   </Hosts>
