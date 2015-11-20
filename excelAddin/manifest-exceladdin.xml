@@ -14,7 +14,7 @@
     <Host Name="Project"/>
   </Hosts>
   <DefaultSettings>
-    <SourceLocation DefaultValue="https://sawyerlin.github.io/ExcelAddins-Ivy/excelAddin/appcompose/home/home.html"/>
+    <SourceLocation DefaultValue="https://sawyerlin.github.io/ExcelAddins-Ivy/excelAddin/app/home/home.html"/>
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
 </OfficeApp>
