@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="TaskPaneApp">
-  <Id>e19c27f5-03bd-4a88-99cd-ba7134722e2f</Id>
-  <Version>1.0.0.0</Version>
-  <ProviderName>[Provider name]</ProviderName>
-  <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="excelAddin"/>
-  <Description DefaultValue="excelAddin"/>
-  <SupportUrl DefaultValue="https://sawyerlin.github.io/ExcelAddins-Ivy"/>
-  <Hosts>
-    <Host Name="Document"/>
-    <Host Name="Workbook"/>
-    <Host Name="Presentation"/>
-    <Host Name="Project"/>
-  </Hosts>
-  <DefaultSettings>
-    <SourceLocation DefaultValue="https://sawyerlin.github.io/ExcelAddins-Ivy/excelAddin/app/home/home.html"/>
-  </DefaultSettings>
-  <Permissions>ReadWriteDocument</Permissions>
+    <Id>e19c27f5-03bd-4a88-99cd-ba7134722e2f</Id>
+    <Version>1.0.0.0</Version>
+    <ProviderName>Sawyer LIN</ProviderName>
+    <DefaultLocale>en-US</DefaultLocale>
+    <DisplayName DefaultValue="excelAddin"/>
+    <Description DefaultValue="excelAddin"/>
+    <SupportUrl DefaultValue="https://sawyerlin.github.io/ExcelAddins-Ivy"/>
+    <Hosts>
+        <Host Name="Document"/>
+        <Host Name="Workbook"/>
+        <Host Name="Presentation"/>
+        <Host Name="Project"/>
+    </Hosts>
+    <DefaultSettings>
+        <SourceLocation DefaultValue="https://sawyerlin.github.io/ExcelAddins-Ivy/excelAddin/app/home/home.html"/>
+    </DefaultSettings>
+    <Permissions>ReadWriteDocument</Permissions>
 </OfficeApp>
